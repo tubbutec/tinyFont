@@ -1,3 +1,5 @@
+![](https://github.com/tubbutec/tinyFont/blob/main/rendered.png?raw=true)
+
 A tiny font based on https://robey.lag.net/2010/01/23/tiny-monospace-font.html
 The font is 5px height with a descender of 1px for some charachters.
 
@@ -13,3 +15,5 @@ As well as a python script to convert these JSON files to C code. The script has
 Some improvements or variations are possible: 
 - One could easily modify this font to have a height of 5 pixels for all characters: Just move g,j,p,q and y up one pixel.
 - Reduce the width of some characters further: [ and ] could be reduced to 2 px
+
+CC-BY 3.0
