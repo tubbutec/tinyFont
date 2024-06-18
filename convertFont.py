@@ -3,6 +3,9 @@ import json
 # Converts JSON files from https://www.pentacom.jp/pentacom/bitfontmaker2/
 # Into C files
 
+# unfortunately, bitfontmaker removes the space character. You need to manually add it to the font.json file:
+# For example: "32":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+
 starty = 7
 endy   = 12
 startx = 2
