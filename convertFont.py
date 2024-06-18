@@ -9,7 +9,7 @@ startx = 2
 endx   = 6
 
 startChar = ' '
-endChar = chr(255)
+endChar = chr(255) # set this to '~' to save program memory
 
 fontname = "tiny5p"
 
